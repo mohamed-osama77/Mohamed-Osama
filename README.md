@@ -2,7 +2,7 @@
 
 <h3 align="center">💻 CS Student | 🔐 Cyber Security Learner</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00bfff&height=200&section=header&text=Mohamed%20Osama&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00bfff&height=200&section=header&text=Cybersecurity%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 ---
 
