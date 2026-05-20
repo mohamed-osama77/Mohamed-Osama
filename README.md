@@ -40,7 +40,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,github,linux,vscode,mysql,notion,bash"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,github,linux,vscode,mysql,git,notion,bash"/>
 
 </p>
 
