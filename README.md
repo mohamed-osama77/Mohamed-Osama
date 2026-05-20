@@ -2,14 +2,17 @@
 
 <h3 align="center">💻 CS Student | 🔐 Cyber Security Learner</h3>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00bfff&height=200&section=header&text=Mohamed%20Osama&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 ---
 
 ## 🚀 About Me
 
-- 🎓 CS Student passionate about technology
-- 🔐 Currently learning Cyber Security
-- 🌱 Improving problem solving & backend skills
-- ⚡ Love Linux, programming & tech stuff
+- 🔐 Cyber Security Learner
+- 🌐 Networking & CCNA Student
+- 🧪 Solving Labs Daily
+- 🐧 Linux Enthusiast
+- ⚡ Passionate about technology & security
 
 ---
 
@@ -33,11 +36,23 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,github,linux,vscode,mysql,notion"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,github,linux,vscode,mysql,notion,bash"/>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Solve-Labs-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CCNA-Networking-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge"/>
 
 </p>
 
@@ -47,9 +62,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-osama77&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-osama77&theme=tokyonight"/>
 
 </p>
 
@@ -59,20 +74,20 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/mohamed-osama77/mohamed-osama77/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-## ✨ Visitor Count
+## 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mohamed-osama77&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
 ---
 
-<h3 align="center">🔥 Keep Learning, Keep Hacking 🔥</h3>
+<h3 align="center">🔥 Keep Learning • Keep Solving • Keep Securing 🔥</h3>
